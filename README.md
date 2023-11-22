@@ -8,4 +8,4 @@ __Project Description:__ Web Scraping project to gather data from the (TBD) webp
 
 __Webscraped URL:__ (TBD)
 
-__Collaborator:__ Brian J Gill (bjgill@my.waketech.edu) & Ankur Gaur (agaur@my.waketech.edu)
+__Collaborators:__ Brian J Gill (bjgill@my.waketech.edu) & Ankur Gaur (agaur@my.waketech.edu)
