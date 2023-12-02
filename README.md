@@ -8,4 +8,4 @@ __Project Description:__ Web Scraping project to gather data from the 'Demograph
 
 __Webscraped URL:__ "https://en.wikipedia.org/wiki/Demographics_of_the_United_States"
 
-__Collaborators:__ Brian J Gill (bjgill@my.waketech.edu) & Ankur Gaur (agaur@my.waketech.edu)
+__Collaborators:__ Brian J Gill (bjgill@my.waketech.edu) & Ankur Gaur (agaur@my.waketech.edu) ACCEPTED
